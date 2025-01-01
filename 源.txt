@@ -1,0 +1,1 @@
+pip install opencv-python sounddevice moviepy numpy -i https://pypi.tuna.tsinghua.edu.cn/simple
